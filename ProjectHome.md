@@ -1,0 +1,1 @@
+As a part of a previous study this short code snippet creates scalable QRCodes. This software is based on an existing python code.
